@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TomaszMrozik
-- 👀 I’m interested in basketball , logic games and cinematography.
+- 👀 I’m interested in basketball and cinematography.
 - 🌱 I’m currently polishing my JavaScript, React, HTML and css skills.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 
 email: tomaszmrozik2000@gmail.com
