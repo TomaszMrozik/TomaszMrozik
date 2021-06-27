@@ -4,7 +4,7 @@
 - 👀 I’m interested in ⛹️‍♂️basketball and 🎬cinematography.
 - 📫 If you want to reach me: tomaszmrozik2000@gmail.com
 
-<img align="left" alt="Toamsz Mrozik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
+<img align="left" alt="Toamsz Mrozik | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
 
 <!---
 TomaszMrozik/TomaszMrozik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
