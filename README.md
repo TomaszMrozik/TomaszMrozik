@@ -4,7 +4,7 @@
 - 👀 I’m interested in ⛹️‍♂️basketball and 🎬cinematography.
 - 📫 If you want to reach me: tomaszmrozik2000@gmail.com
 
-[<img align="left" alt="Toamsz Mrozik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
+[<img align="left" alt="Toamsz Mrozik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] linkedin
 
 LinkedIn: https://www.linkedin.com/in/tomasz-mrozik-8851311b3/
 
