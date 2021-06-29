@@ -4,7 +4,8 @@
 - 👀 I’m interested in ⛹️‍♂️basketball and 🎬cinematography.
 - 📫 If you want to reach me: tomaszmrozik2000@gmail.com
 
-<img align="left" alt="Toamsz Mrozik | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
+<img align="left" alt="Toamsz Mrozik | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
+[linkedin]
 
 My tools:
 
@@ -12,7 +13,7 @@ My tools:
 <img align="left" alt="HTML5" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="SCSS" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" />
 <img align="left" alt="Javascript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
-<img align="left" alt="React" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+<img align="left" alt="React" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 
 <!---
 TomaszMrozik/TomaszMrozik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
