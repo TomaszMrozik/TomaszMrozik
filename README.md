@@ -5,8 +5,15 @@
 - 📫 If you want to reach me: send me an [email] or contact me via
 
 <img align="left" alt="Tomasz Mrozik | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
+
+
 <img align="left" alt="Tomasz Mrozik | Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /> [facebook]
+
+
 <img align="left" alt="Tomasz Mrozik | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" /> [instagram]
+
+
+
 My tools:
 
 
