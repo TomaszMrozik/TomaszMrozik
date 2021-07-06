@@ -2,10 +2,11 @@
 - 💼 I'm looking for my first programming job!
 - 🌱 I’m currently learning at [Coderslab] and polishing my JavaScript, React, HTML and SCSS skills.
 - 👀 I’m interested in ⛹️‍♂️basketball and 🎬cinematography.
-- 📫 If you want to reach me: tomaszmrozik2000@gmail.com
+- 📫 If you want to reach me: send me an [email] or contact me via
 
-<img align="left" alt="Toamsz Mrozik | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
-
+<img align="left" alt="Tomasz Mrozik | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
+<img align="left" alt="Tomasz Mrozik | Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /> [facebook]
+<img align="left" alt="Tomasz Mrozik | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" /> [instagram]
 My tools:
 
 
@@ -20,3 +21,6 @@ You can click the Preview link to take a look at your changes.
 --->
 [linkedin]: https://www.linkedin.com/in/i-am-tomasz-mrozik/
 [Coderslab]: https://coderslab.pl/pl/
+[email]: tomaszmrozik2000@gmail.com
+[facebook]: https://www.facebook.com/Ja2000Tomek
+[instagram]: https://www.instagram.com/tomasz_mrozik/
