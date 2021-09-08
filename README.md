@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomaszMrozik
 - 💼 I'm looking for my first programming job!
-- 🌱 I’m currently learning at [Coderslab] and polishing my JavaScript, React, HTML and SCSS skills.
+- 🌱 I finished programming course at [Coderslab] and I'm currently polishing skills and develop knowledge around JavaScript, React, HTML and CSS.
 - 👀 I’m interested in ⛹️‍♂️basketball and 🎬cinematography.
 - 📫 If you want to reach me: send me an [email] or contact me via
 
