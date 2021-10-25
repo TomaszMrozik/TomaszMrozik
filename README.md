@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomaszMrozik
 - 💼 I'm looking for my first programming job!
-- 🌱 I'm currently polishing my programming skills by finishing my portfolio websites and learning TypeScript
+- 🌱 I'm currently polishing my programming skills by finishing my portfolio websites.
 - 👀 I’m interested in ⛹️‍♂️basketball and 🎬cinematography.
 - 📫 If you want to reach me: send me an [email] or contact me via
 
